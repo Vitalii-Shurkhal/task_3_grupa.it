@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAC,KACI,wBAA2B,CAC3B,sBAAuB,CACvB,iBAAkB,CAClB,kBACJ","file":"main.a03fe0fb.chunk.css","sourcesContent":[" body {\n     background-color: lightgray;\n     justify-content: center;\n     text-align: center;\n     align-items: center;\n }\n"]}
